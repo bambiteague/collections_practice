@@ -90,12 +90,5 @@ def add_s(array)
         end
      # add s to each word if it isn't the second   
     end
-      
-      
-    #     word[0..3] + "s" 
-    # else 
-    #     array.reject do |word|
-    #         word.include?([1]) + ""
-    #     end
-    # end
+  
 end
